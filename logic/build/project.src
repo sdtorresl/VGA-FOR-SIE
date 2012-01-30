@@ -1,0 +1,2 @@
+verilog work ../vga_top.v
+VHDL work ../vga_controller_640_60.vhd

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Bitgen" num="275" delta="new" >Spartan-3E devices do not support bitstream readback of the Blockram resources in the -4C speedgrade.  If Blockram readback functionality is desired, it is suggested to target the -5C or -4I speedgrades.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;2&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;3&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;4&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;5&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;6&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;7&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;8&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;9&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;0&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;1&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;2&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;3&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;4&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;5&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;6&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">sram_data&lt;7&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;10&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;11&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;12&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">ncs_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">nwe_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">nwe1_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;0&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+<msg type="warning" file="PhysDesignRules" num="367" delta="new" >The signal &lt;<arg fmt="%s" index="1">addr_pr&lt;1&gt;_IBUF</arg>&gt; is incomplete. The signal does not drive any load pins in the design.
+</msg>
+
+</messages>
+

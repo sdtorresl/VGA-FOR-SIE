@@ -1,0 +1,2 @@
+0x00000000	fb_sys_write	/home/ndariass/Dropbox/Embebidos/Version_1.0/driver/vgamonochr	EXPORT_SYMBOL_GPL
+0x00000000	fb_sys_read	/home/ndariass/Dropbox/Embebidos/Version_1.0/driver/vgamonochr	EXPORT_SYMBOL_GPL

@@ -1,0 +1,314 @@
+EESchema Schematic File Version 2  date sáb 10 sep 2011 20:22:22 COT
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:VGA-cache
+EELAYER 25  0
+EELAYER END
+$Descr A4 11700 8267
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "11 sep 2011"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 4700 3800 0    60   ~ 0
+VSYNC
+Text Label 4700 3900 0    60   ~ 0
+HSYNC
+$Comp
+L F15HDH X1
+U 1 1 4E6539B3
+P 6800 3400
+F 0 "X1" H 6650 3850 50  0000 L BNN
+F 1 "F15HDH" H 6625 2775 50  0000 L BNN
+F 2 "con-subd-HDF15H" H 6800 3550 50  0001 C CNN
+	1    6800 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4700 4000 4700 4250
+Connection ~ 6400 3600
+Wire Wire Line
+	6500 3600 6400 3600
+Connection ~ 6400 3800
+Wire Wire Line
+	6500 3800 6400 3800
+Wire Wire Line
+	6500 3500 6400 3500
+Wire Wire Line
+	4700 3600 5400 3600
+Wire Wire Line
+	5400 3600 5400 3700
+Wire Wire Line
+	5400 3700 5600 3700
+Wire Wire Line
+	4700 3400 5400 3400
+Wire Wire Line
+	5400 3400 5400 3300
+Wire Wire Line
+	5400 3300 5600 3300
+Wire Wire Line
+	4700 3200 5100 3200
+Wire Wire Line
+	5100 3200 5100 2900
+Wire Wire Line
+	5100 2900 5600 2900
+Wire Wire Line
+	5600 2500 4800 2500
+Wire Wire Line
+	4800 2500 4800 3000
+Wire Wire Line
+	4800 3000 4700 3000
+Wire Wire Line
+	7350 3500 7100 3500
+Connection ~ 6250 3300
+Wire Wire Line
+	6250 3300 6100 3300
+Wire Wire Line
+	6100 2700 6250 2700
+Wire Wire Line
+	6250 2700 6500 2700
+Wire Wire Line
+	6500 2700 6500 3100
+Wire Wire Line
+	6100 2500 6250 2500
+Wire Wire Line
+	6250 2500 6250 2700
+Wire Wire Line
+	6250 2700 6250 2900
+Wire Wire Line
+	6250 2900 6100 2900
+Connection ~ 6250 2700
+Wire Wire Line
+	6100 3100 6250 3100
+Wire Wire Line
+	6250 3100 6250 3200
+Wire Wire Line
+	6250 3200 6250 3300
+Wire Wire Line
+	6250 3300 6250 3500
+Wire Wire Line
+	6250 3500 6100 3500
+Wire Wire Line
+	6250 3200 6500 3200
+Connection ~ 6250 3200
+Wire Wire Line
+	6100 3900 6250 3900
+Connection ~ 6250 3900
+Wire Wire Line
+	6100 3700 6250 3700
+Wire Wire Line
+	6250 3700 6300 3700
+Wire Wire Line
+	6300 3700 6300 3300
+Wire Wire Line
+	6300 3300 6500 3300
+Connection ~ 6250 3700
+Wire Wire Line
+	7100 3600 7300 3600
+Wire Wire Line
+	7300 3600 7300 3800
+Wire Wire Line
+	7300 3800 7350 3800
+Wire Wire Line
+	6250 3900 6250 3700
+Wire Wire Line
+	4700 3100 4950 3100
+Wire Wire Line
+	4950 3100 4950 2700
+Wire Wire Line
+	4950 2700 5600 2700
+Wire Wire Line
+	4700 3300 5250 3300
+Wire Wire Line
+	5250 3300 5250 3100
+Wire Wire Line
+	5250 3100 5600 3100
+Wire Wire Line
+	4700 3500 5600 3500
+Wire Wire Line
+	4700 3700 5250 3700
+Wire Wire Line
+	5250 3700 5250 3900
+Wire Wire Line
+	5250 3900 5600 3900
+Wire Wire Line
+	6400 3500 6400 3600
+Wire Wire Line
+	6400 3600 6400 3700
+Wire Wire Line
+	6400 3700 6400 3800
+Wire Wire Line
+	6400 3800 6400 4250
+Wire Wire Line
+	7200 3200 7200 4250
+Wire Wire Line
+	7200 3200 7100 3200
+Wire Wire Line
+	6400 3700 6500 3700
+Connection ~ 6400 3700
+Wire Wire Line
+	7200 4250 6400 4250
+Wire Wire Line
+	6400 4250 4700 4250
+Connection ~ 6400 4250
+Text Label 5050 4250 0    60   ~ 0
+GND
+$Comp
+L CONN_11 P1
+U 1 1 4E652C8B
+P 4350 3500
+F 0 "P1" V 4300 3500 60  0000 C CNN
+F 1 "CONN_11" V 4400 3500 60  0000 C CNN
+	1    4350 3500
+	-1   0    0    1   
+$EndComp
+Text Label 5250 3900 0    60   ~ 0
+BLU2
+Text Label 5400 3700 0    60   ~ 0
+BLU1
+Text Label 5250 3500 0    60   ~ 0
+GRN2
+Text Label 5400 3300 0    60   ~ 0
+GRN1
+Text Label 5250 3100 0    60   ~ 0
+GRN0
+Text Label 5100 2900 0    60   ~ 0
+RED2
+Text Label 4950 2700 0    60   ~ 0
+RED1
+Text Label 4800 2500 0    60   ~ 0
+RED0
+NoConn ~ 7100 3100
+NoConn ~ 7100 3400
+NoConn ~ 7100 3300
+Text Label 7850 3800 0    60   ~ 0
+VSYNC
+Text Label 7850 3500 0    60   ~ 0
+HSYNC
+NoConn ~ 7100 3700
+$Comp
+L R R3
+U 1 1 4E5FC204
+P 5850 2900
+F 0 "R3" V 5930 2900 50  0000 C CNN
+F 1 "510" V 5850 2900 50  0000 C CNN
+	1    5850 2900
+	0    1    1    0   
+$EndComp
+$Comp
+L R R8
+U 1 1 4E5FC240
+P 5850 3900
+F 0 "R8" V 5930 3900 50  0000 C CNN
+F 1 "510" V 5850 3900 50  0000 C CNN
+	1    5850 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L R R1
+U 1 1 4E5FC21C
+P 5850 2500
+F 0 "R1" V 5930 2500 50  0000 C CNN
+F 1 "2k" V 5850 2500 50  0000 C CNN
+	1    5850 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L R R2
+U 1 1 4E5FC210
+P 5850 2700
+F 0 "R2" V 5930 2700 50  0000 C CNN
+F 1 "1k" V 5850 2700 50  0000 C CNN
+	1    5850 2700
+	0    1    1    0   
+$EndComp
+NoConn ~ 6500 3400
+$Comp
+L R R10
+U 1 1 4E5FBF02
+P 7600 3800
+F 0 "R10" V 7680 3800 50  0000 C CNN
+F 1 "100" V 7600 3800 50  0000 C CNN
+	1    7600 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L R R9
+U 1 1 4E5FBEFB
+P 7600 3500
+F 0 "R9" V 7680 3500 50  0000 C CNN
+F 1 "100" V 7600 3500 50  0000 C CNN
+	1    7600 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L R R7
+U 1 1 4E5FBEEF
+P 5850 3700
+F 0 "R7" V 5930 3700 50  0000 C CNN
+F 1 "1k" V 5850 3700 50  0000 C CNN
+	1    5850 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L R R6
+U 1 1 4E5FBEE4
+P 5850 3500
+F 0 "R6" V 5930 3500 50  0000 C CNN
+F 1 "510" V 5850 3500 50  0000 C CNN
+	1    5850 3500
+	0    1    1    0   
+$EndComp
+$Comp
+L R R5
+U 1 1 4E5FBEDF
+P 5850 3300
+F 0 "R5" V 5930 3300 50  0000 C CNN
+F 1 "1k" V 5850 3300 50  0000 C CNN
+	1    5850 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L R R4
+U 1 1 4E5FBED7
+P 5850 3100
+F 0 "R4" V 5930 3100 50  0000 C CNN
+F 1 "2k" V 5850 3100 50  0000 C CNN
+	1    5850 3100
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC

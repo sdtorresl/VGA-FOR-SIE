@@ -1,0 +1,46 @@
+# PlanAhead Generated physical constraints 
+NET "clk" LOC = P38;
+NET "rst" LOC = P30;
+NET led     LOC = "P44";
+
+
+NET "color[0]" LOC = P71;	# blue 2 pin 2 DIG13
+NET "color[1]" LOC = P67;	# blue 1 pin 5 DIG10
+NET "color[2]" LOC = P66;	# green 2 pin 6 DIG9
+NET "color[3]" LOC = P65;	# green 1 pin 7 DIG8
+NET "color[4]" LOC = P63;	# green 0 pin 8 DIG7
+NET "color[5]" LOC = P62;	# red 2 pin 9 DIG6
+NET "color[6]" LOC = P61;	# red 1 pin 10 DIG5
+NET "color[7]" LOC = P60;	# red 0 pin 11 DIG4
+NET "h_sync" LOC = P70;		# pin 3 DIG 12
+NET "v_sync" LOC = P68;		# pin 4 DIG 11
+
+#ADDRESS BUS
+NET "addr_pr<12>" LOC = "P90";
+NET "addr_pr<11>" LOC = "P91";
+NET "addr_pr<10>" LOC = "P85";
+NET "addr_pr<9>" LOC = "P92";
+NET "addr_pr<8>" LOC = "P94";
+NET "addr_pr<7>" LOC = "P95";
+NET "addr_pr<6>" LOC = "P98";
+NET "addr_pr<5>" LOC = "P3";
+NET "addr_pr<4>" LOC = "P2";
+NET "addr_pr<3>" LOC = "P78";
+NET "addr_pr<2>" LOC = "P79";
+NET "addr_pr<1>" LOC = "P83";
+NET "addr_pr<0>" LOC = "P84";
+
+#DATA switches
+NET "sram_data<7>"  LOC = "P4";
+NET "sram_data<6>"  LOC = "P5";
+NET "sram_data<5>"  LOC = "P9";
+NET "sram_data<4>"  LOC = "P10";
+NET "sram_data<3>"  LOC = "P11";
+NET "sram_data<2>"  LOC = "P12";
+NET "sram_data<1>"  LOC = "P15";
+NET "sram_data<0>"  LOC = "P16";
+
+#CONTROL BUS
+NET "nwe"   LOC = "P88";		#WE0_N
+NET "nwe1"  LOC = "P89";		#WE1_N
+NET "ncs"   LOC = "P69";

@@ -1,0 +1,26 @@
+VGA FOR SIE
+
+Development of VGA controller for SIE platform, this repository
+contains all source code for implement a VGA hardware in a FPGA and a
+PCB design files for the SIE, also contains a driver of framebuffer
+designed for the SIE platform making use of a jz4725 processor,
+finally there are some user space applications to test the project.
+
+Copyright (C) 2011
+
+	Sergio Torres		sdtorresl@unal.edu.co
+	Gustavo Valbuena	gavalbuenar@unal.edu.co
+	Nicolás Arias		ndariass@unal.edu.co
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.

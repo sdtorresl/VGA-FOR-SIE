@@ -1,0 +1,221 @@
+# EESchema Netlist Version 1.1 created  dom 18 sep 2011 17:24:12 COT
+(
+ ( /4E652C8B pin_array_6x2 P1 CONN_11
+  ( 1 /GND )
+  ( 2 /BLU2 )
+  ( 3 /HSYNC )
+  ( 4 /VSYNC )
+  ( 5 /BLU1 )
+  ( 6 /GRN2 )
+  ( 7 /GRN1 )
+  ( 8 /GRN0 )
+  ( 9 /RED2 )
+  ( 10 /RED1 )
+  ( 11 /RED0 )
+ )
+ ( /4E765BEC PIN_ARRAY_20X2 P2 CONN_20X2
+  ( 1 /PIN1 )
+  ( 2 /PIN2 )
+  ( 3 /PIN3 )
+  ( 4 /PIN4 )
+  ( 5 /PIN5 )
+  ( 6 /PIN6 )
+  ( 7 /PIN7 )
+  ( 8 /PIN8 )
+  ( 9 /PIN9 )
+  ( 10 /PIN10 )
+  ( 11 /PIN11 )
+  ( 12 /PIN12 )
+  ( 13 /PIN13 )
+  ( 14 /PIN14 )
+  ( 15 /PIN15 )
+  ( 16 /PIN16 )
+  ( 17 /PIN17 )
+  ( 18 /PIN18 )
+  ( 19 /PIN19 )
+  ( 20 /PIN20 )
+  ( 21 /PIN21 )
+  ( 22 /PIN22 )
+  ( 23 /PIN23 )
+  ( 24 /PIN24 )
+  ( 25 /PIN25 )
+  ( 26 /PIN26 )
+  ( 27 /PIN27 )
+  ( 28 /PIN28 )
+  ( 29 /PIN29 )
+  ( 30 /PIN30 )
+  ( 31 /PIN31 )
+  ( 32 /PIN32 )
+  ( 33 /PIN33 )
+  ( 34 /PIN34 )
+  ( 35 /PIN35 )
+  ( 36 /PIN36 )
+  ( 37 /PIN37 )
+  ( 38 /PIN38 )
+  ( 39 /PIN39 )
+  ( 40 /PIN40 )
+ )
+ ( /4E765EE4 $noname$ P3 CONN_20X2
+  ( 1 /PIN1 )
+  ( 2 /PIN2 )
+  ( 3 /PIN3 )
+  ( 4 /PIN4 )
+  ( 5 /PIN5 )
+  ( 6 /PIN6 )
+  ( 7 /PIN7 )
+  ( 8 /PIN8 )
+  ( 9 /PIN9 )
+  ( 10 /PIN10 )
+  ( 11 /PIN11 )
+  ( 12 /PIN12 )
+  ( 13 /PIN13 )
+  ( 14 /PIN14 )
+  ( 15 /PIN15 )
+  ( 16 /PIN16 )
+  ( 17 /PIN17 )
+  ( 18 /PIN18 )
+  ( 19 /PIN19 )
+  ( 20 /PIN20 )
+  ( 21 /PIN21 )
+  ( 22 /PIN22 )
+  ( 23 /PIN23 )
+  ( 24 /PIN24 )
+  ( 25 /PIN25 )
+  ( 26 /PIN26 )
+  ( 27 /PIN27 )
+  ( 28 /PIN28 )
+  ( 29 /PIN29 )
+  ( 30 /PIN30 )
+  ( 31 /PIN31 )
+  ( 32 /PIN32 )
+  ( 33 /PIN33 )
+  ( 34 /PIN34 )
+  ( 35 /PIN35 )
+  ( 36 /PIN36 )
+  ( 37 /PIN37 )
+  ( 38 /PIN38 )
+  ( 39 /PIN39 )
+  ( 40 /PIN40 )
+ )
+ ( /4E5FC21C SM1206 R1 2k
+  ( 1 N-000024 )
+  ( 2 /RED0 )
+ )
+ ( /4E5FC210 SM1206 R2 1k
+  ( 1 N-000024 )
+  ( 2 /RED1 )
+ )
+ ( /4E5FC204 SM1206 R3 510
+  ( 1 N-000024 )
+  ( 2 /RED2 )
+ )
+ ( /4E5FBED7 SM1206 R4 2k
+  ( 1 N-000025 )
+  ( 2 /GRN0 )
+ )
+ ( /4E5FBEDF SM1206 R5 1k
+  ( 1 N-000025 )
+  ( 2 /GRN1 )
+ )
+ ( /4E5FBEE4 SM1206 R6 510
+  ( 1 N-000025 )
+  ( 2 /GRN2 )
+ )
+ ( /4E5FBEEF SM1206 R7 1k
+  ( 1 N-000016 )
+  ( 2 /BLU1 )
+ )
+ ( /4E5FC240 SM1206 R8 510
+  ( 1 N-000016 )
+  ( 2 /BLU2 )
+ )
+ ( /4E5FBEFB SM1206 R9 100
+  ( 1 /HSYNC )
+  ( 2 N-000023 )
+ )
+ ( /4E5FBF02 SM1206 R10 100
+  ( 1 /VSYNC )
+  ( 2 N-000017 )
+ )
+ ( /4E6539B3 con-subd-HDF15V X1 F15HDH
+  ( 1 N-000024 )
+  ( 2 N-000025 )
+  ( 3 N-000016 )
+  ( 4 ? )
+  ( 5 /GND )
+  ( 6 /GND )
+  ( 7 /GND )
+  ( 8 /GND )
+  ( 9 ? )
+  ( 10 /GND )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 N-000023 )
+  ( 14 N-000017 )
+  ( 15 ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}

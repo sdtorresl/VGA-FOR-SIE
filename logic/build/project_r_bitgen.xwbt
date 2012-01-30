@@ -1,0 +1,7 @@
+INFILE=/home/gustavo/Dropbox/Embebidos/Version_1.0/logic/build/project_r.ncd
+OUTFILE=/home/gustavo/Dropbox/Embebidos/Version_1.0/logic/build/project_r.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4vq100
+WORKINGDIR=/home/gustavo/Dropbox/Embebidos/Version_1.0/logic/build
+LICENSE=WebPack
+USER_INFO=0_0_450

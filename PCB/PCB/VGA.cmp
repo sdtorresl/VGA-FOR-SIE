@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-12 BZR 3047)-stable date = dom 18 sep 2011 17:24:12 COT
+
+BeginCmp
+TimeStamp = /4E652C8B;
+Reference = P1;
+ValeurCmp = CONN_11;
+IdModule  = pin_array_6x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E765BEC;
+Reference = P2;
+ValeurCmp = CONN_20X2;
+IdModule  = PIN_ARRAY_20X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E765EE4;
+Reference = P3;
+ValeurCmp = CONN_20X2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FC21C;
+Reference = R1;
+ValeurCmp = 2k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FC210;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FC204;
+Reference = R3;
+ValeurCmp = 510;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBED7;
+Reference = R4;
+ValeurCmp = 2k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBEDF;
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBEE4;
+Reference = R6;
+ValeurCmp = 510;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBEEF;
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FC240;
+Reference = R8;
+ValeurCmp = 510;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBEFB;
+Reference = R9;
+ValeurCmp = 100;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E5FBF02;
+Reference = R10;
+ValeurCmp = 100;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E6539B3;
+Reference = X1;
+ValeurCmp = F15HDH;
+IdModule  = con-subd-HDF15V;
+EndCmp
+
+EndListe
